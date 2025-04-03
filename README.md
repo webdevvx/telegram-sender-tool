@@ -51,5 +51,6 @@ sending automated messages to telegram users after scraping the users fromn a gr
 # TELEGRAM MASS MESSAGING TOOL
 # TELEGRAM BULK MESSAGE SENDER
 # TELEGRAM AUTO SENDER
+# TG REPORTER
 
 
