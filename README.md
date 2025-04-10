@@ -53,4 +53,4 @@ sending automated messages to telegram users after scraping the users fromn a gr
 # TELEGRAM AUTO SENDER
 # TG REPORTER
 # TG SENDER
-
+# TELEGRAM SPAMMER
