@@ -38,6 +38,7 @@ For sending messages to phone numbers, ensure they are in your Telegram contacts
 sending bulk automated messages to telegram users after scraping the users fromn a group or channel and auto forwarding telegram messages to bulk channels and groups
 
 # TELEGRAM MESSAGE SENDER
+Telegram bulk message tool
 # TELEGRAM BULK MESSAGE SENDER
 # TELEGRAM MASS DM TOOL
 # TELEGRAM AUTO SEND BOT
