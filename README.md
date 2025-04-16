@@ -1,5 +1,5 @@
 # telegram-sender-tool
-a tool that sends bulk message to telegram users
+a tool that sends bulk messages to telegram users
 
 developer:https://t.me/profcodes
 
