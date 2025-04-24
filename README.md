@@ -1,5 +1,5 @@
 # telegram-sender-tool
-a powerful tool that sends bulk messages to telegram users
+a powerful tool that sends bulk messages to telegram users. telegram mass dm
 
 developer:https://t.me/profcodes
 
