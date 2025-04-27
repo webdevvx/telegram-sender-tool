@@ -9,7 +9,7 @@ developer:https://t.me/profcodes
 - Set Up Telegram API data Credentials
 - You'll need an API ID and API Hash from my.telegram.org.
  
-<b>ALSO AVAILABLE FOR TELEGRAM MASS DMs</b>
+<b>ALSO AVAILABLE FOR TELEGRAM MASS DMs GIGS</b>
 
 developer: https://t.me/profcodes
 
