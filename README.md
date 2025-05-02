@@ -55,3 +55,4 @@ Telegram bulk message tool
 # TG REPORTER
 # TG SENDER
 # TELEGRAM SPAMMER
+telegram mass dm tool
