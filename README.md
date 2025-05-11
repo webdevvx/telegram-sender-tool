@@ -56,3 +56,4 @@ Telegram bulk message tool
 # TG SENDER
 # TELEGRAM SPAMMER
 telegram mass dm tool
+# telegram channel ban
